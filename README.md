@@ -36,12 +36,12 @@ class Thilak:
         self.location     = "Tamil Nadu, India 🇮🇳"
         self.degree       = "B.E Computer Science & Engineering (2024–2028)"
         self.college      = "K.Ramakrishnan College of Engineering"
-        self.cgpa         = 6.7
+        self.cgpa         = 6.3
         self.stack        = ["Python", "SQL", "C"]
         self.learning     = ["Data Structures", "Web Dev", "DevOps", "Power BI"]
         self.languages    = ["English", "Tamil"]
         self.soft_skills  = ["Team Work", "Leadership", "Adaptability"]
-        self.fun_fact     = "I scored 91.4% in SSLC & 89.6% in HSC 🔥"
+        self.fun_fact     = "I scored 75.4% in SSLC & 70.6% in HSC 🔥"
 
     def motto(self):
         return "Eager to contribute, learn, and grow as a developer 🚀"

@@ -152,9 +152,9 @@ print(me.motto())
 
 | Degree / Level | Institution | Year | Score |
 |---|---|---|---|
-| B.E Computer Science & Engineering | K.Ramakrishnan College of Engineering | 2024 – 2028 | CGPA: 6.7 |
-| HSC (Class XII) | Chellamal Higher Secondary School, Vengur | 2022 – 2024 | 89.6% |
-| SSLC (Class X) | Chellamal Higher Secondary School, Vengur | 2022 | 91.4% |
+| B.E Computer Science & Engineering | K.Ramakrishnan College of Engineering | 2024 – 2028 | CGPA: 6.3 |
+| HSC (Class XII) | Chellamal Higher Secondary School, Vengur | 2022 – 2024 | 75.6% |
+| SSLC (Class X) | Chellamal Higher Secondary School, Vengur | 2022 | 70.4% |
 
 </div>
 

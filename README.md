@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**thilak-codes/thilak-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[thilak-codes-profile.zip](https://github.com/user-attachments/files/33722385/thilak-codes-profile.zip)
+<div align="center">
+<h3><code>thilak@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
+<br><br>
+<h3><code>thilak@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./thilak-ascii.svg" width="370" alt="ASCII portrait" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Info card" /></td>
+  </tr>
+</table>
+<br><br>
+<h3><code>thilak@github ~ $ cat projects.txt</code></h3>
+<table>
+  <tr>
+    <td><b>Calculator App</b> · Python<br>Command-line calculator with error handling for invalid input and division by zero.<br><a href="https://github.com/thilak-codes/calculator">View repo →</a></td>
+    <td><b>To-Do List App</b> · Python<br>CLI task manager (add / remove / view) that saves tasks between sessions using file I/O.<br><a href="https://github.com/thilak-codes">View repo →</a></td>
+  </tr>
+</table>
+<br>
+<h3><code>thilak@github ~ $ ./contact.sh</code></h3>
+<a href="https://www.linkedin.com/in/smthilak"><img src="https://img.shields.io/badge/LinkedIn-smthilak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:thilak080207@gmail.com"><img src="https://img.shields.io/badge/Email-thilak080207%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<br><br>
+<sub>CSE student · Python · SQL · C · open to software development internships</sub>
+</div>
+[README (1).md](https://github.com/user-attachments/files/33722631/README.1.md)

@@ -280,15 +280,14 @@ def main():
         sys.exit(1)
 
 
-if __name__ == "__main__":#!/usr/bin/env python3
-"""
-build_profile.py - ONE file that builds everything for the profile README.
+if __name__ == "__main__":
+  """build_profile.py - ONE file that builds everything for the profile README.
 
   contrib-heatmap.svg  <- your real contributions (refreshed daily by GitHub Actions)
   thilak-ascii.svg     <- ASCII portrait (made once; placeholder until you add a photo)
   info-card.svg        <- neofetch-style card (made once)
-
-Run by the workflow every day. Locally:  python build_profile.py [--demo] [--all]
+  
+  Run by the workflow every day. Locally:  python build_profile.py [--demo] [--all]
   --demo : fake contribution data (testing only)
   --all  : also rebuild the ASCII portrait and info card even if they exist
 """

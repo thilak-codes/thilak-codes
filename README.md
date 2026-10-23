@@ -8,7 +8,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I'm Thilak S M 👋</h1>
+<h1 align="center">Hi, I'm Thilak S M </h1>
 
 <h3 align="center">
   B.Tech. Computer Science & Engineering Student | Aspiring Software Developer
@@ -28,7 +28,7 @@
 
 About Me
 class Thilak:
-    name = "Thilak S M"
+    name = "Thilak S M"\n
     studying = "B.Tech. Computer Science Business System & Engineering (2024 - 2028)"
     college = "K. Ramakrishnan College of Engineering"
     skills = ["Python", "SQL", "C", "Excel"]

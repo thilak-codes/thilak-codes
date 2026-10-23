@@ -78,6 +78,17 @@ print("Learn. Build. Improve. Repeat.")
   <img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
 </p>
+
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Ashwin-R05&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Ashwin-R05&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Ashwin's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Ashwin-R05&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Ashwin-R05&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
 <!-- ===== MATRIX CONTRIBUTION SNAKE ===== -->
 
 <div align="center">
@@ -90,13 +101,6 @@ print("Learn. Build. Improve. Repeat.")
 
 </div>
 
-**Soft skills:** Teamwork · Leadership · Adaptability · Compatibility
-
-**Languages:** English · Tamil
-
-**Currently learning:** Web & DevOps · Data Analysis · Cybersecurity
-
----
 
 ## `education` — Academic Background
 

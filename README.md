@@ -11,7 +11,7 @@
 <h1 align="center">Hi, I'm Thilak S M 👋</h1>
 
 <h3 align="center">
-  B.E. Computer Science & Engineering Student | Aspiring Software Developer
+  B.Tech. Computer Science & Engineering Student | Aspiring Software Developer
 </h3>
 
 <p align="center">
@@ -26,10 +26,10 @@
   <img src="https://img.shields.io/badge/Looking%20For-Internship-10B981?style=for-the-badge" alt="Internship">
 </p>
 
-whoami — About Me
+About Me
 class Thilak:
     name = "Thilak S M"
-    studying = "B.E. Computer Science & Engineering (2024 - 2028)"
+    studying = "B.Tech. Computer Science Business System & Engineering (2024 - 2028)"
     college = "K. Ramakrishnan College of Engineering"
     skills = ["Python", "SQL", "C", "Excel"]
     soft_skills = ["Teamwork", "Leadership", "Adaptability", "Compatibility"]
@@ -38,7 +38,7 @@ class Thilak:
     learning = ["Web & DevOps", "Data Analysis", "Cybersecurity"]
 
 print("Learn. Build. Improve. Repeat.")
-- 🎓 Pursuing B.E. Computer Science & Engineering at K. Ramakrishnan College of Engineering.
+- 🎓 Pursuing B.Tech. Computer Science & Engineering at K. Ramakrishnan College of Engineering.
 - 💻 Building programming fundamentals with Python, C, SQL, and Excel.
 - 📊 Interested in data analysis and working with data to solve problems.
 - 🌐 Learning Web Development and DevOps concepts.
@@ -50,18 +50,9 @@ print("Learn. Build. Improve. Repeat.")
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/light.svg">
-    <img alt="Thilak S M | Cybersecurity & Developer Banner" src="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg" width="100%">
+    <img alt="Thilak S M | Python & Developer Banner" src="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg" width="100%">
   </picture>
-</p>
 
-<h1 align="center">Hi, I'm Thilak S M 👋</h1>
-
-<h3 align="center">
-  B.E. Computer Science & Engineering Student | Aspiring Software Developer
-</h3>
-
-<p align="center">
-  Motivated third-year student eager to strengthen programming skills, contribute to real-world projects, learn industry practices, and grow in a collaborative environment.
 </p>
 
 <p align="center">
@@ -74,36 +65,11 @@ print("Learn. Build. Improve. Repeat.")
 
 ---
 
-## `whoami` — About Me
-
-```python
-class Thilak:
-    name = "Thilak S M"
-    studying = "B.E. Computer Science & Engineering (2024 - 2028)"
-    college = "K. Ramakrishnan College of Engineering"
-    skills = ["Python", "SQL", "C", "Excel"]
-    soft_skills = ["Teamwork", "Leadership", "Adaptability", "Compatibility"]
-    languages = ["English", "Tamil"]
-    goal = "Software development internship and real-world projects"
-    learning = ["Web & DevOps", "Data Analysis", "Cybersecurity"]
-
-print("Learn. Build. Improve. Repeat.")
-```
-
-- 🎓 Pursuing B.E. Computer Science & Engineering at **K. Ramakrishnan College of Engineering**.
-- 💻 Building programming fundamentals with Python, C, SQL, and Excel.
-- 📊 Interested in data analysis and working with data to solve problems.
-- 🌐 Learning Web Development and DevOps concepts.
-- 🔐 Exploring cybersecurity and secure development practices.
-- 🤝 Value teamwork, leadership, adaptability, and collaboration.
-- 🚀 Seeking a software development internship where I can contribute, learn, and build practical experience.
-
----
 
 ## `tech_stack` — Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,linux&perline=7" alt="Technical skills and tools">
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,excel,linux&perline=7" alt="Technical skills and tools">
 </p>
 
 <p align="center">
@@ -133,7 +99,7 @@ print("Learn. Build. Improve. Repeat.")
 
 ## `career_goal` — What I'm Working Toward
 
-My goal is to secure a **software development internship** where I can apply my programming knowledge, contribute to real-world projects, learn industry practices, and grow as a developer in a collaborative environment.
+My goal is to secure a **software developer** where I can apply my programming knowledge, contribute to real-world projects, learn industry practices, and grow as a developer in a collaborative environment.
 
 I'm focused on improving my technical skills through hands-on practice and building projects that demonstrate what I learn.
 

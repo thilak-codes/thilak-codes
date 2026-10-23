@@ -91,7 +91,6 @@ print("Learn. Build. Improve. Repeat.")
 </picture>
 
 <!-- ===== MATRIX CONTRIBUTION SNAKE ===== -->
-## `contributions` — Contribution Activity
 <div align="center">
 
 <picture>

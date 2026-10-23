@@ -78,6 +78,17 @@ print("Learn. Build. Improve. Repeat.")
   <img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
 </p>
+<!-- ===== MATRIX CONTRIBUTION SNAKE ===== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-R05/Ashwin-R05/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashwin-R05/Ashwin-R05/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Ashwin-R05/Ashwin-R05/output/snake-light.svg" />
+</picture>
+
+</div>
 
 **Soft skills:** Teamwork · Leadership · Adaptability · Compatibility
 

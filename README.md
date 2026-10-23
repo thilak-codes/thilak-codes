@@ -91,6 +91,7 @@ print("Learn. Build. Improve. Repeat.")
 </picture>
 
 <!-- ===== MATRIX CONTRIBUTION SNAKE ===== -->
+
 <div align="center">
 
 <picture>
@@ -100,7 +101,6 @@ print("Learn. Build. Improve. Repeat.")
 </picture>
 
 </div>
-
 
 ## `education` — Academic Background
 

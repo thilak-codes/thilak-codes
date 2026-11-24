@@ -9,12 +9,6 @@
 </p>
 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/light.svg">
-    <img alt="Thilak S M | Python & Developer Banner" src="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg" width="100%">
-  </picture>
 
 </p>
 

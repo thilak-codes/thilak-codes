@@ -1,1 +1,126 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"></stop>
+      <stop offset="100%" stop-color="#111027"></stop>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"></stop>
+      <stop offset="100%" stop-color="#C4B5FD"></stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"></feGaussianBlur>
+      <feMerge><feMergeNode in="blur"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="560" rx="22" fill="url(#bg)"></rect>
+  <rect x="2" y="2" width="1196" height="556" rx="20" fill="none" stroke="#8B5CF6" stroke-width="2"></rect>
+
+  <!-- Terminal top bar -->
+  <path d="M22 2 H1178 Q1198 2 1198 22 V52 H2 V22 Q2 2 22 2" fill="#171525"></path>
+  <circle cx="30" cy="27" r="6" fill="#F87171"></circle>
+  <circle cx="52" cy="27" r="6" fill="#FBBF24"></circle>
+  <circle cx="74" cy="27" r="6" fill="#A78BFA"></circle>
+  <text x="600" y="32" text-anchor="middle" fill="#C4B5FD" font-family="monospace" font-size="12">thilak-sm :: ~/developer.profile.sh --live</text>
+
+  <!-- Left panel -->
+  <rect x="35" y="75" width="390" height="440" rx="15" fill="#0D1117" stroke="#8B5CF6" stroke-width="1.5"></rect>
+  <text x="55" y="105" fill="#A855F7" font-family="monospace" font-size="15" font-weight="bold">DEV.PROFILE // DESIGN, DATA &amp; CODE</text>
+
+  <rect x="55" y="125" width="350" height="30" rx="7" fill="#171525" stroke="#5B21B6"></rect>
+  <circle cx="70" cy="140" r="4" fill="#A855F7"></circle>
+  <text x="84" y="144" fill="#E9D5FF" font-family="monospace" font-size="11">PROFILE ACTIVE | LEARN | BUILD | IMPROVE</text>
+
+  <!-- Radar -->
+  <circle cx="230" cy="250" r="68" fill="none" stroke="#5B21B6" stroke-width="1.5" stroke-dasharray="5 6"></circle>
+  <circle cx="230" cy="250" r="50" fill="none" stroke="#8B5CF6" stroke-width="1.5"></circle>
+  <circle cx="230" cy="250" r="32" fill="#171525" stroke="#C4B5FD" stroke-width="2"></circle>
+  <path d="M230 229 L247 239 L247 260 L230 271 L213 260 L213 239 Z" fill="none" stroke="#C4B5FD" stroke-width="2"></path>
+  <path d="M222 249 L230 242 L238 249 L238 260 L222 260 Z" fill="#8B5CF6" filter="url(#glow)"></path>
+  <circle cx="230" cy="250" r="4" fill="#E9D5FF"></circle>
+  <path d="M230 174 V187 M230 313 V326 M154 250 H167 M293 250 H306" stroke="#A855F7" stroke-width="2"></path>
+
+  <!-- Skill cards -->
+  <g font-family="monospace">
+    <rect x="55" y="350" width="165" height="62" rx="9" fill="#171525" stroke="#6D28D9"></rect>
+    <text x="72" y="375" fill="#C4B5FD" font-size="15">◆ Python</text>
+    <text x="72" y="395" fill="#A855F7" font-size="11">Programming</text>
+
+    <rect x="240" y="350" width="165" height="62" rx="9" fill="#171525" stroke="#6D28D9"></rect>
+    <text x="257" y="375" fill="#C4B5FD" font-size="15">◆ SQL</text>
+    <text x="257" y="395" fill="#A855F7" font-size="11">Database</text>
+
+    <rect x="55" y="425" width="165" height="62" rx="9" fill="#171525" stroke="#6D28D9"></rect>
+    <text x="72" y="450" fill="#C4B5FD" font-size="15">◆ Excel</text>
+    <text x="72" y="470" fill="#A855F7" font-size="11">Data Analysis</text>
+
+    <rect x="240" y="425" width="165" height="62" rx="9" fill="#171525" stroke="#6D28D9"></rect>
+    <text x="257" y="450" fill="#C4B5FD" font-size="15">◆ GitHub</text>
+    <text x="257" y="470" fill="#A855F7" font-size="11">Version Control</text>
+  </g>
+
+  <!-- Right panel -->
+  <rect x="450" y="75" width="715" height="440" rx="15" fill="#0D1117" stroke="#8B5CF6" stroke-width="1.5"></rect>
+  <text x="475" y="105" fill="#22D3EE" font-family="monospace" font-size="15" font-weight="bold">SYSTEM.INFO // DEVELOPER PROFILE</text>
+  <text x="1135" y="105" text-anchor="end" fill="#A78BFA" font-family="monospace" font-size="10">./thilak.sm --dev</text>
+
+  <text x="475" y="150" fill="#A855F7" font-family="monospace" font-size="15">thilak@dev-box:~$ whoami --verbose</text>
+
+  <g font-family="monospace" font-size="13">
+    <text x="475" y="190" fill="#A78BFA">NAME :</text>
+    <text x="620" y="190" fill="#E9D5FF" font-weight="bold">Thilak S M</text>
+
+    <text x="475" y="225" fill="#A78BFA">ROLE :</text>
+    <text x="620" y="225" fill="#E9D5FF">CSBS Student | UI/UX Designer (Figma)</text>
+
+    <text x="475" y="260" fill="#A78BFA">BASE :</text>
+    <text x="620" y="260" fill="#E9D5FF">Tamil Nadu, India</text>
+
+    <text x="475" y="295" fill="#A78BFA">FOCUS :</text>
+    <text x="620" y="295" fill="#E9D5FF">Aspiring Data Analyst • Python • SQL • Excel</text>
+
+    <text x="475" y="330" fill="#A78BFA">CORE_STACK :</text>
+    <text x="620" y="330" fill="#C4B5FD">Python • SQL • Excel • Figma • GitHub • C</text>
+
+    <text x="475" y="365" fill="#A78BFA">STATUS :</text>
+    <text x="620" y="365" fill="#C4B5FD">● Learning UI/UX Design &amp; Data Analytics</text>
+
+    <text x="475" y="400" fill="#A78BFA">CONTACT :</text>
+    <text x="620" y="400" fill="#E9D5FF">thilaksm.30@gmail.com</text>
+  </g>
+
+  <!-- Skills & Learning chips -->
+  <text x="475" y="440" fill="#A78BFA" font-family="monospace" font-size="11">SKILLS &amp; LEARNING</text>
+  <g font-family="monospace" font-size="10" fill="#E9D5FF">
+    <rect x="475" y="455" width="75" height="25" rx="12" fill="#25154A" stroke="#8B5CF6"/>
+    <text x="512" y="471" text-anchor="middle">Python</text>
+
+    <rect x="560" y="455" width="65" height="25" rx="12" fill="#25154A" stroke="#8B5CF6"/>
+    <text x="592" y="471" text-anchor="middle">SQL</text>
+
+    <rect x="635" y="455" width="65" height="25" rx="12" fill="#25154A" stroke="#8B5CF6"/>
+    <text x="667" y="471" text-anchor="middle">Excel</text>
+
+    <rect x="710" y="455" width="75" height="25" rx="12" fill="#25154A" stroke="#8B5CF6"/>
+    <text x="747" y="471" text-anchor="middle">GitHub</text>
+
+    <rect x="795" y="455" width="40" height="25" rx="12" fill="#25154A" stroke="#8B5CF6"/>
+    <text x="815" y="471" text-anchor="middle">C</text>
+
+    <rect x="845" y="455" width="105" height="25" rx="12" fill="#25154A" stroke="#8B5CF6"/>
+    <text x="897" y="471" text-anchor="middle">Data Analysis</text>
+
+    <rect x="960" y="455" width="105" height="25" rx="12" fill="#25154A" stroke="#8B5CF6"/>
+    <text x="1012" y="471" text-anchor="middle">UI/UX Design</text>
+
+    <rect x="1075" y="455" width="65" height="25" rx="12" fill="#25154A" stroke="#8B5CF6"/>
+    <text x="1107" y="471" text-anchor="middle">Figma</text>
+  </g>
+
+  <!-- Bottom status -->
+  <rect x="475" y="490" width="665" height="1" fill="#5B21B6"></rect>
+  <text x="475" y="505" fill="#A78BFA" font-family="monospace" font-size="10">PROFILE STATUS: BUILDING v1.0</text>
+  <text x="1140" y="505" text-anchor="end" fill="#22D3EE" font-family="monospace" font-size="10">● ONLINE</text>
+</svg>

@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/light.svg">
-    <img alt="Thilak S M | Cybersecurity & Developer Banner" src="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg" width="100%">
+    <img alt="Thilak S M | Python Developer & Developer Banner" src="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg" width="100%">
   </picture>
 </p>
 
@@ -18,26 +18,8 @@
   Motivated third-year student eager to strengthen programming skills, contribute to real-world projects, learn industry practices, and grow in a collaborative environment.
 </p>
 
-<p align="center">
-  <a href="https://github.com/thilak-codes">
-    <img src="https://img.shields.io/badge/GitHub-thilak--codes-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-0891B2?style=for-the-badge" alt="Software Development">
-  <img src="https://img.shields.io/badge/Looking%20For-Internship-10B981?style=for-the-badge" alt="Internship">
 </p>
 
-About Me
-class Thilak:
-    name = "Thilak S M"\n
-    studying = "B.Tech. Computer Science Business System & Engineering (2024 - 2028)"
-    college = "K. Ramakrishnan College of Engineering"
-    skills = ["Python", "SQL", "C", "Excel"]
-    soft_skills = ["Teamwork", "Leadership", "Adaptability", "Compatibility"]
-    languages = ["English", "Tamil"]
-    goal = "Software development internship and real-world projects"
-    learning = ["Web & DevOps", "Data Analysis", "Cybersecurity"]
-
-print("Learn. Build. Improve. Repeat.")
 - 🎓 Pursuing B.Tech. Computer Science & Engineering at K. Ramakrishnan College of Engineering.
 - 💻 Building programming fundamentals with Python, C, SQL, and Excel.
 - 📊 Interested in data analysis and working with data to solve problems.

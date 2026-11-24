@@ -10,31 +10,6 @@
 
 
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/thilak-codes">
-    <img src="https://img.shields.io/badge/GitHub-thilak--codes-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-0891B2?style=for-the-badge" alt="Software Development">
-  <img src="https://img.shields.io/badge/Looking%20For-Internship-10B981?style=for-the-badge" alt="Internship">
-</p>
-
----
-
-
-## `tech_stack` — Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,excel,linux&perline=7" alt="Technical skills and tools">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-</p>
 
 <!-- ===== PURPLE THEME: STATS + TOP LANGUAGES ===== -->
 
@@ -67,6 +42,33 @@
 </picture>
 
 </div>
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/thilak-codes">
+    <img src="https://img.shields.io/badge/GitHub-thilak--codes-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-0891B2?style=for-the-badge" alt="Software Development">
+  <img src="https://img.shields.io/badge/Looking%20For-Internship-10B981?style=for-the-badge" alt="Internship">
+</p>
+
+---
+
+
+## `tech_stack` — Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,excel,linux&perline=7" alt="Technical skills and tools">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+</p>
+
 
 ## `education` — Academic Background
 

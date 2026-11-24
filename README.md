@@ -1,6 +1,14 @@
 <!-- ===== THILAK S M | CYBER COMMAND GITHUB PROFILE ===== -->
 
 <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/banner.svg"
+    alt="Thilak S M - Purple UI UX Designer and Data Analyst Banner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/light.svg">

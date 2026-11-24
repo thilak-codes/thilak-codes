@@ -8,33 +8,6 @@
   />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/light.svg">
-    <img alt="Thilak S M | Python Developer & Developer Banner" src="https://raw.githubusercontent.com/thilak-codes/thilak-codes/main/dark.svg" width="100%">
-  </picture>
-</p>
-
-<h1 align="center">Hi, I'm Thilak S M </h1>
-
-<h3 align="center">
-  B.Tech. Computer Science & Engineering Student | Aspiring Software Developer
-</h3>
-
-<p align="center">
-  Motivated third-year student eager to strengthen programming skills, contribute to real-world projects, learn industry practices, and grow in a collaborative environment.
-</p>
-
-</p>
-
-- 🎓 Pursuing B.Tech. Computer Science & Engineering at K. Ramakrishnan College of Engineering.
-- 💻 Building programming fundamentals with Python, C, SQL, and Excel.
-- 📊 Interested in data analysis and working with data to solve problems.
-- 🌐 Learning Web Development and DevOps concepts.
-- 🔐 Exploring cybersecurity and secure development practices.
-- 🤝 Value teamwork, leadership, adaptability, and collaboration.
-- 🚀 Seeking a software development internship where I can contribute,
 
 <p align="center">
   <picture>

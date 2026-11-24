@@ -17,9 +17,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: thilak-codes
-outputs: |
-  dist/snake-light.svg?color_snake=%238B5CF6&color_dots=%23F3E8FF,%23E9D5FF,%23C4B5FD,%238B5CF6,%235B21B6
-  dist/snake-dark.svg?color_snake=%23D8B4FE&color_dots=%23241A3A,%2331205B,%236D28D9,%23A78BFA,%23E9D5FF
+          outputs: |
+          dist/snake-light.svg?color_snake=%238B5CF6&color_dots=%23F3E8FF,%23E9D5FF,%23C4B5FD,%238B5CF6,%235B21B6
+          dist/snake-dark.svg?color_snake=%23D8B4FE&color_dots=%23241A3A,%2331205B,%236D28D9,%23A78BFA,%23E9D5FF
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

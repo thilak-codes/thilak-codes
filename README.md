@@ -135,7 +135,7 @@ I'm focused on improving my technical skills through hands-on practice and build
 </p>
 
 <p align="center">
-  <sub>Thanks for visiting my profile. Let's learn, build, and grow together. 🚀</sub>
+  <sub>Thanks for visiting my profile.
 </p>
 
 <!-- ===== END OF README ===== -->

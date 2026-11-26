@@ -1,39 +1,29 @@
 
-<!-- EDUCATION - NEON AMETHYST THEME -->
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190">
+  <rect width="478" height="188" x="1" y="1" rx="13" fill="#100B1F" stroke="#8B5CF6" stroke-width="1.5"/>
 
-<h2 align="left">🎓 Academic Background</h2>
+  <path d="M20 25 L34 19 L48 25 L34 31 Z" fill="#C4B5FD"/>
+  <path d="M25 27 V34 Q34 41 43 34 V27" fill="none" stroke="#C4B5FD" stroke-width="2"/>
 
-<div align="center">
+  <text x="60" y="31" fill="#E9D5FF" font-family="Arial" font-size="16" font-weight="bold">ACADEMIC BACKGROUND</text>
+  <text x="60" y="48" fill="#A78BFA" font-family="Arial" font-size="9" letter-spacing="1.5">EDUCATION • 2022–2028</text>
 
-<table width="100%" style="border: 1px solid #8B5CF6; border-radius: 12px; background-color: #100B1F;">
-<tr>
-<td style="padding: 18px;">
+  <line x1="18" y1="61" x2="462" y2="61" stroke="#51318A"/>
 
-<h3 style="color: #D8B4FE;">🎓 Education</h3>
+  <text x="20" y="83" fill="#E9D5FF" font-family="Arial" font-size="13" font-weight="bold">B.E. Computer Science &amp; Engineering</text>
+  <text x="20" y="98" fill="#B9A3E8" font-family="Arial" font-size="10">K. Ramakrishnan College of Engineering</text>
+  <text x="460" y="87" fill="#D8B4FE" font-family="Arial" font-size="13" font-weight="bold" text-anchor="end">6.3 CGPA</text>
+  <text x="20" y="113" fill="#A78BFA" font-family="Arial" font-size="10">2024–2028</text>
 
-<p style="color: #A78BFA;">ACADEMIC JOURNEY | 2022 - 2028</p>
+  <line x1="18" y1="123" x2="462" y2="123" stroke="#31205B"/>
 
-<hr style="border-color: #51318A;">
+  <text x="20" y="144" fill="#E9D5FF" font-family="Arial" font-size="12" font-weight="bold">HSC</text>
+  <text x="75" y="144" fill="#B9A3E8" font-family="Arial" font-size="10">Chellamal Higher Secondary School, Vengur • 2024</text>
+  <text x="460" y="144" fill="#D8B4FE" font-family="Arial" font-size="12" font-weight="bold" text-anchor="end">70.0%</text>
 
-<h3 style="color: #E9D5FF;">B.E. Computer Science & Engineering</h3>
-<p style="color: #C4B5FD;">K. Ramakrishnan College of Engineering</p>
-<p style="color: #A78BFA;">2024 - 2028 | <b>CGPA: 6.3</b></p>
+  <line x1="18" y1="155" x2="462" y2="155" stroke="#31205B"/>
 
-<hr style="border-color: #51318A;">
-
-<h3 style="color: #E9D5FF;">Higher Secondary Certificate (HSC)</h3>
-<p style="color: #C4B5FD;">Chellamal Higher Secondary School, Vengur</p>
-<p style="color: #A78BFA;">2024 | <b>70.0%</b></p>
-
-<hr style="border-color: #51318A;">
-
-<h3 style="color: #E9D5FF;">Secondary School Leaving Certificate (SSLC)</h3>
-<p style="color: #C4B5FD;">Chellamal Higher Secondary School, Vengur</p>
-<p style="color: #A78BFA;">2022 | <b>75.4%</b></p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
+  <text x="20" y="177" fill="#E9D5FF" font-family="Arial" font-size="12" font-weight="bold">SSLC</text>
+  <text x="75" y="177" fill="#B9A3E8" font-family="Arial" font-size="10">Chellamal Higher Secondary School, Vengur • 2022</text>
+  <text x="460" y="177" fill="#D8B4FE" font-family="Arial" font-size="12" font-weight="bold" text-anchor="end">75.4%</text>
+</svg>

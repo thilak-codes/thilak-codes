@@ -10,9 +10,9 @@
 
   <line x1="18" y1="61" x2="462" y2="61" stroke="#51318A"/>
 
-  <text x="20" y="83" fill="#E9D5FF" font-family="Arial" font-size="13" font-weight="bold">B.E. Computer Science &amp; Engineering</text>
+  <text x="20" y="83" fill="#E9D5FF" font-family="Arial" font-size="12" font-weight="bold">B.E. Computer Science &amp; Engineering</text>
   <text x="20" y="98" fill="#B9A3E8" font-family="Arial" font-size="10">K. Ramakrishnan College of Engineering</text>
-  <text x="460" y="87" fill="#D8B4FE" font-family="Arial" font-size="13" font-weight="bold" text-anchor="end">6.3 CGPA</text>
+  <text x="460" y="87" fill="#D8B4FE" font-family="Arial" font-size="12" font-weight="bold" text-anchor="end">7.0 CGPA</text>
   <text x="20" y="113" fill="#A78BFA" font-family="Arial" font-size="10">2024–2028</text>
 
   <line x1="18" y1="123" x2="462" y2="123" stroke="#31205B"/>

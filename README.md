@@ -75,7 +75,7 @@
 
 </div>
 <div align="center">
-  <img src="./education.svg" width="480" alt="Academic Background"/>
+  <img src="./education.svg" width="800" alt="Academic Background"/>
 </div>
 
 

@@ -73,7 +73,7 @@
 <!-- EDUCATION - NEON AMETHYST THEME -->
 <div align="center">
   <img src="./education.svg"
-       width="480"
+       width="520"
        alt="Academic Background"/>
 </div>
 

@@ -107,6 +107,9 @@
 </table>
 
 </div>
+<div align="center">
+  <img src="./education.svg" width="480" alt="Academic Background"/>
+</div>
 
 
 ## `career_goal` — What I'm Working Toward

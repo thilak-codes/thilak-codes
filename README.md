@@ -108,15 +108,6 @@
 
 </div>
 
-## `education` — Academic Background
-
-| Qualification | Institution | Year | Score |
-|---|---|---|---|
-| B.E. Computer Science & Engineering | K. Ramakrishnan College of Engineering | 2024–2028 | CGPA: 6.3 |
-| HSC | Chellamal Higher Secondary School, Vengur | 2024 | 70.0% |
-| SSLC | Chellamal Higher Secondary School, Vengur | 2022 | 75.4% |
-
----
 
 ## `career_goal` — What I'm Working Toward
 

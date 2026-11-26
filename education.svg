@@ -20,7 +20,7 @@
 
   <text x="35" y="151" fill="#E9D5FF"
         font-family="Arial" font-size="20" font-weight="bold">
-    B.E. Computer Science &amp; Engineering
+    B.TECH. Computer Science &amp; Engineering
   </text>
   <text x="35" y="181" fill="#C4B5FD"
         font-family="Arial" font-size="16">
@@ -30,7 +30,7 @@
         font-family="Arial" font-size="15">2024 – 2028</text>
   <text x="765" y="181" text-anchor="end" fill="#D8B4FE"
         font-family="Arial" font-size="18" font-weight="bold">
-    CGPA: 6.3
+    CGPA: 7.0
   </text>
 
   <line x1="30" y1="239" x2="770" y2="239"
